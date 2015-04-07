@@ -1,0 +1,5 @@
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.csprojResolveAssemblyReference.cache
